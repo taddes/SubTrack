@@ -2,10 +2,10 @@
  SubTrack tracks all of your monthly subscriptions and expenses.
  
  Contributors:
- Erik Augenzuker [Erik Augenzuker GitHub](https://github.com/Eaug2)<br>
- Klara Boyer     [Klara Boyer GitHub](https://github.com/kawboyer) <br>
- Josh Dulin      [Josh Dulin GitHub](https://github.com/jzdulin) <br>
- Taddes Korris   [Taddes Korris GitHub](https://github.com/taddes)
+ Erik Augenzuker [GitHub Repo](https://github.com/Eaug2)<br>
+ Klara Boyer     [GitHub Repo](https://github.com/kawboyer) <br>
+ Josh Dulin      [GitHub Repo](https://github.com/jzdulin) <br>
+ Taddes Korris   [GitHub Repo](https://github.com/taddes)
  
  <hr>
  
