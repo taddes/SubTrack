@@ -1,5 +1,5 @@
 # SubTrack
- SubTrack tracks all of your monthly subscriptions and expenses.
+ <h3>SubTrack tracks all of your monthly subscriptions and expenses.</h3>
  
  Contributors:<br>
  Erik Augenzuker [GitHub Repo](https://github.com/Eaug2)<br>
